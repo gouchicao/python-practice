@@ -1,2 +1,1 @@
-# python-practice
-Python实践
+# Python实践
