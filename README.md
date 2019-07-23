@@ -11,3 +11,4 @@
     - 例子
         * [生成斐波那契数列](basics/example_fib.ipynb)
         * [数字转汉字大写](basics/example_digital-to-chinese-characters.ipynb)
+        * [Walden单词统计](basics/example_walden-word-count.ipynb)
