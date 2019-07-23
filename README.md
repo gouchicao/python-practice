@@ -1,12 +1,13 @@
 # [Python实践](https://mybinder.org/v2/gh/gouchicao/python-practice/master)
 
-1. 开发工具
-    - 1.1 [Jupyter Notebook](1.1 Jupyter Notebook.ipynb)
-    - 1.2 [探索性学习](1.2_Exploratory-Learning.ipynb)
+1. 准备工作
+    - 1.1 [Jupyter Notebook](start/jupyter-notebook.ipynb)
+    - 1.2 [探索性学习](start/exploratory-learning.ipynb)
 
 2. 基础语法
     - 2.1 [列表、元组、字典、集合](basics/list-tuple-dict-set.ipynb)
     - 2.2 [字符串](basics/stirng.ipynb)
+    - 2.3 [条件、循环、列表推导式](basics/condition.ipynb)
 
     - 例子
         * [生成斐波那契数列](basics/example_fib.ipynb)
