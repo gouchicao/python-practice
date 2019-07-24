@@ -7,7 +7,8 @@
 2. 基础语法
     - 2.1 [列表、元组、字典、集合](basics/list-tuple-dict-set.ipynb)
     - 2.2 [字符串](basics/stirng.ipynb)
-    - 2.3 [条件、循环、列表推导式](basics/condition.ipynb)
+    - 2.3 [条件、循环、列表推导](basics/condition.ipynb)
+    - 2.4 [异常](basics/exception.ipynb)
 
     - 例子
         * [生成斐波那契数列](basics/example_fib.ipynb)
