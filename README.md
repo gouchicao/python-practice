@@ -20,7 +20,7 @@
         * [matplotlib绘图 鸢尾花数据集iris](basics/example_iris.ipynb)
         * [Pandas数据分析](basics/example_pandas.ipynb)
 
-3. 工具
+3. 数据分析工具
     - [NumPy](tools/numpy.ipynb)
     - [Pandas](tools/pandas.ipynb)
-    
+    - [matplotlib](tools/matplotlib.ipynb)
