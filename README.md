@@ -12,12 +12,13 @@
     - 2.5 [函数](basics/function.ipynb)
     - 2.6 [类](basics/class.ipynb)
 
-    - 例子
+    - 练习
         * [生成斐波那契数列](basics/example_fib.ipynb)
+        * [找到100-1000内的所有水仙花数](basics/example_daffodil.ipynb)
         * [数字转汉字大写](basics/example_digital-to-chinese-characters.ipynb)
         * [Walden单词统计](basics/example_walden-word-count.ipynb)
-        * [iris绘图](basics/example_iris.ipynb)
-        * [找到100-1000内的所有水仙花数](basics/example_daffodil.ipynb)
+        * [matplotlib绘图 鸢尾花数据集iris](basics/example_iris.ipynb)
+        * [Pandas数据分析](basics/example_pandas.ipynb)
 
 3. 工具
     - [NumPy](tools/numpy.ipynb)
