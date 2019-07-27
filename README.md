@@ -1,5 +1,15 @@
-# [Python实践](https://mybinder.org/v2/gh/gouchicao/python-practice/master)
+# Python实践
 
+## 使用
+* 本机
+```bash
+git clone http://github.com/gouchicao/python-practice
+pip install -r requirements.txt
+```
+
+* [云端](https://mybinder.org/v2/gh/gouchicao/python-practice/master)
+
+## 目录
 1. 准备工作
     - 1.1 [Jupyter Notebook](start/jupyter-notebook.ipynb)
     - 1.2 [探索性学习](start/exploratory-learning.ipynb)
