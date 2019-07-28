@@ -18,9 +18,10 @@ pip install -r requirements.txt
     - 2.1 [列表、元组、字典、集合](basics/list-tuple-dict-set.ipynb)
     - 2.2 [字符串](basics/stirng.ipynb)
     - 2.3 [条件、循环、列表推导](basics/condition.ipynb)
-    - 2.4 [异常](basics/exception.ipynb)
+    - 2.4 [文件、输入输出、JSON](basics/input-output-file.ipynb)
     - 2.5 [函数](basics/function.ipynb)
-    - 2.6 [类](basics/class.ipynb)
+    - 2.6 [异常](basics/exception.ipynb)
+    - 2.7 [类](basics/class.ipynb)
 
     - 练习
         * [生成斐波那契数列](basics/example_fib.ipynb)
