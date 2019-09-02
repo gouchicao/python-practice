@@ -30,6 +30,7 @@ pip install -r requirements.txt
         * [Walden单词统计](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/basics/example_walden-word-count.ipynb)
         * [matplotlib绘图 鸢尾花数据集iris](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/basics/example_iris.ipynb)
         * [Pandas数据分析](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/basics/example_pandas.ipynb)
+        * [NumPy-Pandas-Matplotlib](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/basics/example_numpy-pandas-matplotlib.ipynb)
 
 3. 数据分析工具
     - [NumPy](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/numpy.ipynb)
