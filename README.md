@@ -35,4 +35,5 @@ pip install -r requirements.txt
 3. 数据分析工具
     - [NumPy](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/numpy.ipynb)
     - [Pandas](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/pandas.ipynb)
-    - [matplotlib](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/matplotlib.ipynb)
+    - [Matplotlib](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/matplotlib.ipynb)
+    - [Seaborn](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/seaborn.ipynb)
