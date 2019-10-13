@@ -37,3 +37,4 @@ pip install -r requirements.txt
     - [Pandas](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/pandas.ipynb)
     - [Matplotlib](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/matplotlib.ipynb)
     - [Seaborn](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/seaborn.ipynb)
+    - [Pillow](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/pillow.ipynb)
