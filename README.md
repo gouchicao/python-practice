@@ -38,3 +38,6 @@ pip install -r requirements.txt
     - [Matplotlib](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/matplotlib.ipynb)
     - [Seaborn](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/seaborn.ipynb)
     - [Pillow](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/tools/pillow.ipynb)
+
+4. Keras
+    - [MNIST](http://nbviewer.jupyter.org/github/gouchicao/python-practice/blob/master/keras/mnist.ipynb)
